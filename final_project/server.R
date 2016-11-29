@@ -52,7 +52,7 @@ shinyServer(function(input, output, session) {
                         type = "scatter",
                         mode = "line", name = "Regression line") %>%
             layout(title = paste("Media value vs", variables[input$comparableX]),
-                   yaxis = list(title = "Median value"),
+                   yaxis = list(title = "Median value in 1000 USD"),
                    xaxis = list(title = variables[input$comparableX]))
     })
     

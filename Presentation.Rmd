@@ -13,9 +13,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Final project developed to get grade in the coursera class of Developing Data Products. This project was made using the **slidify** and **shiny** to build the presentation and analysis.
 
-## Application
-
-The application built at shiny is available at: [here]() and has the following analysis:
+- Available at: [https://schmittjoaopedro.shinyapps.io/final_project/](https://schmittjoaopedro.shinyapps.io/final_project/)
+- Comparable tab: relationship between the choose variable and the median value of home-occupied by 1000 USD.
+- Prediction tab: a table with the best fitted linear model and input fields to predict a median value.
+- Dataset tab: used data to build the project.
 
 ## Data
 
